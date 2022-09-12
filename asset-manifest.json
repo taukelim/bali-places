@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bali-places/static/css/main.c73b03e2.css",
+    "main.css": "/bali-places/static/css/main.5638145a.css",
     "main.js": "/bali-places/static/js/main.16168781.js",
     "static/js/787.a84f74a2.chunk.js": "/bali-places/static/js/787.a84f74a2.chunk.js",
     "static/media/kayana.jpeg": "/bali-places/static/media/kayana.a699aaa421d141cc3b36.jpeg",
     "static/media/citta.jpeg": "/bali-places/static/media/citta.24f06979aff1bcf4fb5b.jpeg",
     "static/media/apiapi.jpeg": "/bali-places/static/media/apiapi.6e298ef4e9a2892b5542.jpeg",
     "index.html": "/bali-places/index.html",
-    "main.c73b03e2.css.map": "/bali-places/static/css/main.c73b03e2.css.map",
+    "main.5638145a.css.map": "/bali-places/static/css/main.5638145a.css.map",
     "main.16168781.js.map": "/bali-places/static/js/main.16168781.js.map",
     "787.a84f74a2.chunk.js.map": "/bali-places/static/js/787.a84f74a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73b03e2.css",
+    "static/css/main.5638145a.css",
     "static/js/main.16168781.js"
   ]
 }
